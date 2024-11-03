@@ -13,6 +13,8 @@ a{
 }
 
 .header {
+  font-size: 18px;
+  line-height: 1.17;
 }
 
 .header-nav {
@@ -20,15 +22,13 @@ a{
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  line-height: 1.17
-  font-size: 18px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
 
 .header-logo .logo-part{
-  color: #2e2f42;
+  color: #2e2f42; 
 }
 
 .header-list {
@@ -69,11 +69,12 @@ a{
 
 .solutions {
   background-color: #2e2f42; 
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em
 }
 .solutions-title {
   font-size: 56px;
-  line-height: 1.07
-  letter-spacing: 0.02em;
   color: #fff;
   background: #2e2f42;
 }
@@ -85,7 +86,8 @@ a{
   font-size: 16px;
   line-height: 1.5;
   color: #fff;
-  cursor: pointer
+  cursor: pointer;
+  font-weight: 500;
 }
 
 .solution-button:focus,
@@ -118,6 +120,8 @@ a{
   background-color: #F4F4FD
 }
 .team-title {
+  text-align: center;
+  line-height: 1.2;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -126,6 +130,7 @@ a{
 }
 .team-list {
 }
+
 .team-item {
   background-color: #FFFFFF
 }
@@ -147,6 +152,7 @@ a{
 }
 
 .portfolio {
+  text-align: center;
 }
 .portfolio-title {
   font-size: 36px;
@@ -180,6 +186,7 @@ a{
 }
 .footer-logo .logo-part{
   color: #f4f4fd;
+  font-size: 18px;
 }
 .footer-text {
   font-weight: 400;
