@@ -25,6 +25,7 @@ a{
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+   font-size: 18px;
 }
 
 .header-logo .logo-part{
@@ -71,7 +72,7 @@ a{
   background-color: #2e2f42; 
   line-height: 1.07;
   text-align: center;
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
 }
 .solutions-title {
   font-size: 56px;
@@ -117,7 +118,7 @@ a{
   color: #434455;
 }
 .team {
-  background-color: #F4F4FD
+  background-color: #F4F4FD;
 }
 .team-title {
   text-align: center;
@@ -137,9 +138,9 @@ a{
 .team-img {
 }
 .team-subtitle {
+  line-height: 1.2;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -185,8 +186,8 @@ a{
   line-height: 1.17
 }
 .footer-logo .logo-part{
-  color: #f4f4fd;
   font-size: 18px;
+  color: #f4f4fd;
 }
 .footer-text {
   font-weight: 400;
